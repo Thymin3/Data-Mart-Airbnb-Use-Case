@@ -10,13 +10,13 @@ implemented in MySQL and subsequently filled with sample data.
 
 To set up the Airbnb Database and execute the test cases, follow these steps:
 ### 1. Database schema
-Run the “Esser-Martina_32212057_DLBDSPBDM01_P3_S_Airbnb_schema.sql” file in your 
+Run the `Esser-Martina_32212057_DLBDSPBDM01_P3_S_Airbnb_schema.sql` file in your 
 preferred MySQL environment to create the database schema.
 ### 2. Sample data
-Execute the “Esser-Martina_32212057_DLBDSPBDM01_P3_S_Airbnb_inputs.sql” file to populate 
+Execute the `Esser-Martina_32212057_DLBDSPBDM01_P3_S_Airbnb_inputs.sql` file to populate 
 the tables with sample data.
 ### 3. Test cases
-Run the ` Esser-Martina_32212057_DLBDSPBDM01_P3_S_Airbnb_testcases.sql` file to execute 
+Run the `Esser-Martina_32212057_DLBDSPBDM01_P3_S_Airbnb_testcases.sql` file to execute 
 various test cases against the database. Verify the results and check for any anomalies. The tables 
 should look like the ones in the PowerPoint presentation, except for the tables which were populated 
 with randomly generated data.
