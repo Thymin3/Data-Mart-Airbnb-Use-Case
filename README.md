@@ -5,6 +5,7 @@
 The aim of this project was to create a data mart with appropriate exemplary data for the Airbnb Use 
 Case. After designing an Entity Relationship Model (ERM) a relational SQL database schema was 
 implemented in MySQL and subsequently filled with sample data.
+Additional to the necessary SQL files, please find additional documentation about the concept (P1) and development (P2) phases in the pdf files respectively.
 
 ## Installation of the database
 
